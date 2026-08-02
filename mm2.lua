@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZnexDev/Loader/refs/heads/main/mm2.luac.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZnexDev/Loader/refs/heads/main/obfuscated_uGv17JbIy67bdmlCGwau1KwISNS5tCYV9e1cu9eXYT0mChHX2ipULtdw9vNowk8GdJ5CQ.lua"))()
